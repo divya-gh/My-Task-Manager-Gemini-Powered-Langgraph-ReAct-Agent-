@@ -3,7 +3,7 @@
 
 `Agent is built using Gemini, LangGraph, TrustCall, and a custom SPY listener for full visibility into tool calls and JSON Patch updates.`
 
-🧠 How It Works
+### 🧠 How It Works
 **Below is a clean workflow diagram**
 
               ┌──────────────────────────┐
