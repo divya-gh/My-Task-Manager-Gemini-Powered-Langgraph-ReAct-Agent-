@@ -1,2 +1,4 @@
 # 📌 My Task Manager — Gemini‑Powered LangGraph ReAct Agent
-A Gemini‑powered LangGraph ReAct agent that intelligently manages tasks, updates long‑term memory, reasons through user intent, and generates beautifully customized To‑Do cards using TrustCall and a transparent SPY‑driven tool‑call workflow.
+A powerful, intelligent task‑management AI assistant that can reason, use tools, update long‑term memory, manage tasks, and even generate customized To‑Do cards — all inside a ReAct‑style workflow.
+
+Agent is built using Gemini, LangGraph, TrustCall, and a custom SPY listener for full visibility into tool calls and JSON Patch updates.
